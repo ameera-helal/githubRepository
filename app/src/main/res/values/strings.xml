@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">githubRepository</string>
+    <string name="app_title">Trending Repos</string>
+    <string name="repository_owner">repository owner</string>
+    <string name="repository_rate">repository rate</string>
+    <string name="test">Test</string>
+</resources>
